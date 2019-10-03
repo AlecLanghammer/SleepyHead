@@ -2,6 +2,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using APIObjects;
+using SleepyHead;
+using System.Collections.Generic;
 
 namespace TestLibrary
 {
